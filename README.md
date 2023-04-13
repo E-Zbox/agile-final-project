@@ -21,9 +21,13 @@ Your team will use [*ZenHub*](https://app.zenhub.com) to provide a kanban board 
 ### SPRINT TIMELINE IN PICTURES 📷🖼
 
 ![image](https://user-images.githubusercontent.com/33615794/231768023-8b9f10a4-fa09-4a18-abd7-b113e30e1729.png)
+⬇
 ![image](https://user-images.githubusercontent.com/33615794/231768170-f56d5eb7-f8cb-4b0f-89ed-de09c1bb9e26.png)
+⬇
 ![image](https://user-images.githubusercontent.com/33615794/231768208-5af49e6c-4dde-4c44-b69e-79583f82c15c.png)
-![image](https://user-images.githubusercontent.com/33615794/231767989-4a5c15bc-d17d-483a-91ce-aa2992a34792.png)
+⬇
 ![image](https://user-images.githubusercontent.com/33615794/231767925-26490a46-017f-4f79-a922-7253ae57dbc4.png)
+⬇
 ![image](https://user-images.githubusercontent.com/33615794/231767856-a1a96755-aa2b-4fff-99a4-e6117f43900f.png)
+⬇
 ![image](https://user-images.githubusercontent.com/33615794/231766911-3fb6648b-934b-48ac-963e-ba67d5431dfc.png)
