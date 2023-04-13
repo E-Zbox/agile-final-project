@@ -44,4 +44,5 @@ Your team will use [*ZenHub*](https://app.zenhub.com) to provide a kanban board 
 <div align="center">
   <p>⬇</p>
 </div>
+
 ![image](https://user-images.githubusercontent.com/33615794/231766911-3fb6648b-934b-48ac-963e-ba67d5431dfc.png)
