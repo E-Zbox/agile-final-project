@@ -22,27 +22,35 @@ Your team will use [*ZenHub*](https://app.zenhub.com) to provide a kanban board 
 
 ![image](https://user-images.githubusercontent.com/33615794/231768023-8b9f10a4-fa09-4a18-abd7-b113e30e1729.png)
 <div align="center">
+  <h3>1/6</h3>
   <p>⬇</p>
 </div>
 
 ![image](https://user-images.githubusercontent.com/33615794/231768170-f56d5eb7-f8cb-4b0f-89ed-de09c1bb9e26.png)
 <div align="center">
+  <h3>2/6</h3>
   <p>⬇</p>
 </div>
 
 ![image](https://user-images.githubusercontent.com/33615794/231768208-5af49e6c-4dde-4c44-b69e-79583f82c15c.png)
 <div align="center">
+  <h3>3/6</h3>
   <p>⬇</p>
 </div>
 
 ![image](https://user-images.githubusercontent.com/33615794/231767925-26490a46-017f-4f79-a922-7253ae57dbc4.png)
 <div align="center">
+  <h3>4/6</h3>
   <p>⬇</p>
 </div>
 
 ![image](https://user-images.githubusercontent.com/33615794/231767856-a1a96755-aa2b-4fff-99a4-e6117f43900f.png)
 <div align="center">
+  <h3>5/6</h3>
   <p>⬇</p>
 </div>
 
 ![image](https://user-images.githubusercontent.com/33615794/231766911-3fb6648b-934b-48ac-963e-ba67d5431dfc.png)
+<div align="center">
+  <h3>6/6</h3>
+ </div>
